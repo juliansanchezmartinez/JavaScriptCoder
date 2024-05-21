@@ -97,3 +97,5 @@ while (seleccionUsuario) {
         seleccionUsuario = prompt("Desea ingresar como Cliente o Administrador? Escriba la respuesta en el siguiente campo").toLowerCase();
     }
 }
+
+//prueba commit
